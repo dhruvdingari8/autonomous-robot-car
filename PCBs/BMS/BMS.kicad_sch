@@ -1,0 +1,50 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "f568761d-6a4b-42f1-a315-cbf88048a8ca")
+	(paper "A4")
+	(lib_symbols)
+	(text "10/19/2026"
+		(exclude_from_sim no)
+		(at 206.502 194.056 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "5c3d2e34-bb0d-4473-a94b-843774a6063b")
+	)
+	(text "Battery Management System"
+		(exclude_from_sim no)
+		(at 206.5411 189.6018 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+				(thickness 0.381)
+				(bold yes)
+			)
+		)
+		(uuid "61465cd9-eb64-4780-aa44-c719828d316d")
+	)
+	(text "A"
+		(exclude_from_sim no)
+		(at 268.986 194.31 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "d268b540-665a-4b45-85d3-42c91d643d41")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
