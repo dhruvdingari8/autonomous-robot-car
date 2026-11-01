@@ -124,7 +124,7 @@ Top speed can be capped in software if needed.
 
 ## 4. Motor Driver and Protections
 ### 4.1. Current Analysis
-Motor current is given by $I=(V_supply - V_backEMF)/R$, with a winding resistance of about
+Motor current is given by $I=(V_(supply) - V_(backEMF))/R$, with a winding resistance of about
 1.3Ω. At standstill there is no back-EMF, so each motor draws close to its 9.2 A stall current
 briefly on every start from rest. A sudden full reverse at speed is the worst case: the supply
 voltage and back-EMF add, briefly producing about 18 A per motor, roughly twice the stall
